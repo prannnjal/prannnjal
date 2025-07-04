@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Mansi87/Mansi87/blob/main/coding.webp?raw=true" width="100%" alt="logo" />
 </p>
-<h1 align="center">Hi 👋, I'm Mansi</h1>
+<h1 align="center">Hi 👋, I'm Pranjal</h1>
 <h3 align="center">Turning caffeine and curiosity into backend magic.</h3>
 <h3 align="center">Living in beta — always upgrading 💀</h3>
 <img align="right" alt="Coding" width="400"   src="https://github.com/Mansi87/Mansi87/blob/main/cool.gif?raw=true">
