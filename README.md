@@ -4,6 +4,9 @@
 <h1 align="center">Hi 👋, I'm Pranjal</h1>
 <h3 align="center">Turning caffeine and curiosity into backend magic.</h3>
 <h3 align="center">Living in beta — always upgrading 💀</h3>
+<p align="center">
+  🚀 <strong>Portfolio:</strong> <a href="https://portfolio-delta-ashy-45.vercel.app/" target="_blank">https://portfolio-delta-ashy-45.vercel.app/</a>
+</p>
 <img align="right" alt="Coding" width="400"   src="https://github.com/Mansi87/Mansi87/blob/main/cool.gif?raw=true">
 <p>
 🔭 I'm currently working on personal projects 
