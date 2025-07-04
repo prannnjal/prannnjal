@@ -1,16 +1,55 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/Mansi87/Mansi87/blob/main/coding.webp?raw=true" width="100%" alt="logo" />
+</p>
+<h1 align="center">Hi 👋, I'm Mansi</h1>
+<h3 align="center">Turning caffeine and curiosity into backend magic.</h3>
+<h3 align="center">Living in beta — always upgrading 💀</h3>
+<img align="right" alt="Coding" width="400"   src="https://github.com/Mansi87/Mansi87/blob/main/cool.gif?raw=true">
+<p>
+🔭 I'm currently working on personal projects 
 
-<!--
-**prannnjal/prannnjal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ~🌟 Currently building backend apps using Spring Boot and MySQL
 
-Here are some ideas to get you started:
+ ~🌱 Exploring Microservices, JWT Security, and System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ~💬 Ask me about **Java language features and syntax, OOP concepts, Javaframeworks,Performance tuning, Java versions and updates.**  
+
+ ~ ⚡​Fun Fact **I try to learn everything at once :)**
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+---
+
+###  GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mansi87&show_icons=true&locale=en&layout=compact" alt="Mansi87" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mansi87&show_icons=true&locale=en" alt="Mansi87" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi87&" alt="Mansi87" /></p>
+
+---
+
+
+<h3 align="left">📫Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mansi87/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="30"/>
+  </a>
+  <a href="mailto:manupandit053@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="30"/>
+  </a>
+</p>
