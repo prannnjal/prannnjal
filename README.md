@@ -6,7 +6,7 @@
 <h3 align="center">Living in beta — always upgrading 💀</h3>
 <p align="center">
   🚀 <strong>Portfolio:</strong> 
-  <a href="https://prannnjal.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio/</a>
+  <a href="https://prannnjal.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 </p>
 
 <img align="right" alt="Coding" width="400"   src="https://github.com/Mansi87/Mansi87/blob/main/cool.gif?raw=true">
