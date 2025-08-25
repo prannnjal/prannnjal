@@ -49,7 +49,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prannnjal&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+
 <p>
-  
-  <img align="center" src="https://streak-stats.demolab.com?user=prannnjal&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prannnjal&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&cache_seconds=3600" alt="GitHub Streak" />
 </p>
+
